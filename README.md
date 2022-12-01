@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Deglier Amorim 🙋🏻
 
-- 🔭 I’m currently working on [Automatuslab](http://automatuslab.com/) as `Front-end engineering` using Vue e Nux.js
+- 🔭 I’m currently working on [Automatuslab](http://automatuslab.com/) as `Front-end engineering` using Vue & Nux.js
 - 🌱 I’m currently learning React, ReactNative, Typescript and Flutter (😍)
 - 😄 Pronouns: He/His
 
